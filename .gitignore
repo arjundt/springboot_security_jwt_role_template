@@ -1,0 +1,60 @@
+###Stat of Added by me###
+
+# **/in/cdac/epramaan/adminuser/dao
+# **/in/cdac/epramaan/adminuser/bd
+AdminRolesBD.java
+AdminRolesBDImpl.java
+PermissionBD.java
+PermissionBDImpl.java
+RoleBD.java
+RoleBDImpl.java
+AdminRolesDAO.java
+AdminRolesDAOImpl.java
+AdminUserDAO.java
+AdminUserDAOImpl.java
+PermissionDAO.java
+PermissionDAOImpl.java
+RoleDAO.java
+RoleDAOImpl.java
+
+#.gitignore
+.svn
+
+# Ignore all log files
+logs/
+*.log
+###End of Added by me###
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
