@@ -1,21 +1,5 @@
 ###Stat of Added by me###
 
-# **/in/cdac/epramaan/adminuser/dao
-# **/in/cdac/epramaan/adminuser/bd
-AdminRolesBD.java
-AdminRolesBDImpl.java
-PermissionBD.java
-PermissionBDImpl.java
-RoleBD.java
-RoleBDImpl.java
-AdminRolesDAO.java
-AdminRolesDAOImpl.java
-AdminUserDAO.java
-AdminUserDAOImpl.java
-PermissionDAO.java
-PermissionDAOImpl.java
-RoleDAO.java
-RoleDAOImpl.java
 
 #.gitignore
 .svn
